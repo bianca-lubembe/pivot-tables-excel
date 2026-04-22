@@ -7,3 +7,5 @@ A gender filter was applied to allow comparison between male and female buyers.
 
 - **Revenue by Country and Year** — Analyses how revenue changed over time 
 across different countries.
+
+View the pivot table: ![Pivot Tables](Pivot_Table-Bike_Sales_Dataset.png)
