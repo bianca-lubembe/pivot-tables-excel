@@ -1,2 +1,9 @@
-# pivot-tables-excel
-Excel analysis of bike sales data using pivot tables
+### Pivot Tables
+Two pivot tables were created to analyse the bike sales data:
+
+- **Revenue, Cost and Profit by Country** — Summarises the total revenue, 
+cost and profit for each country with states collapsed under each country. 
+A gender filter was applied to allow comparison between male and female buyers.
+
+- **Revenue by Country and Year** — Analyses how revenue changed over time 
+across different countries.
